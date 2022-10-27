@@ -1,0 +1,8 @@
+# cat requirements.txt 
+
+numpy
+scipy
+matplotlib
+fbm 
+scikit-learn
+h5py
