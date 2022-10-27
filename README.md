@@ -2,9 +2,9 @@
 
 The `multifractal-learning` module provides the code for the Honours thesis, "A Multifractal Theory of Loss Landscape-Facilitated Learning in Deep Neural Networks". This includes the simulation of gradient descent on a multifractal-like landscape (or any 2D landscape), the characterisation of the emergent chaotic dynamics and anomalous diffusive dynamics, and all associated visualisations in the thesis.
 
-![MBS](doc/images/MBS.pdf)
+![MBS](doc/images/MBS.png)
 
-![trajectory](doc/images/trajectory.pdf)
+![trajectory](doc/images/trajectory.png)
 
 ## Requirements
 
